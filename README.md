@@ -15,11 +15,10 @@ An I/O project that functions as a virtual course registration system
  * 		5. read messages from the registration system (burn after being read).
  * 	    6. send messages to each other.
  *
- * > We have three students already registered in the System: John Doe, Andrew Carnegie and Lynn Aniston. The viewer
- * should be able to sign up for a new account or using any of the existing accounts.
- * Each student can log in using their first name. When registering for a class they have the option to set their password. If a
- * password is set, it will be required every time at log-in in in the future.
- *
+> We have three students already registered in the System: John Doe, Andrew Carnegie and Lynn Aniston. The viewer
+should be able to sign up for a new account or using any of the existing accounts. Each student can log in using their first name. When registering for a class they have the option to set their password. If a
+password is set, it will be required every time at log-in in in the future.
+
  * >In the main function, we intialised a System s and opened it through the function openServer().
  *  Running in console, we will be able to walk through each of their registration experience.
 */

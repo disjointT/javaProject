@@ -4,10 +4,10 @@ An I/O project that functions as a virtual course registration system
  *
  * >The course registration system is first come first serve.
  * >If a class is full, the user has an option to be put on the wait-list. The first student put on the
- * wait list will be the first to be taken off the wait-list. The registration system sends the student
- * a message when a student is put on/off a wait-list.
+  wait list will be the first to be taken off the wait-list. The registration system sends the student
+  a message when a student is put on/off a wait-list.
  *
- * >Student is able to:
+  >Student is able to:
  * 	    1.register for classes.
  * 		2. drop classes.
  * 		3. search for information about a specific course
